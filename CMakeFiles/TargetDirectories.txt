@@ -1,0 +1,3 @@
+/home/alex/Programming/C_C++/Projects/imgp/CMakeFiles/app.dir
+/home/alex/Programming/C_C++/Projects/imgp/CMakeFiles/edit_cache.dir
+/home/alex/Programming/C_C++/Projects/imgp/CMakeFiles/rebuild_cache.dir

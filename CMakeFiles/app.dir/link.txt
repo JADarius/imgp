@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/app.dir/main.c.o CMakeFiles/app.dir/imgp_bitmap.c.o CMakeFiles/app.dir/imgp_utils.c.o -o app 
